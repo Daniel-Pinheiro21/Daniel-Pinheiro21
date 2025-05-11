@@ -5,4 +5,6 @@
 - ⚡ Atualmente estou cursando Engenharia de Software
 - 💬 Contate-me no email: daniel.pinheiro@sempreceub.com
   
-https://www.linkedin.com/in/daniel-pinheiro-antunes-nogueira-87506a360/
+## 
+<div>
+ <a href="https://www.lhttps://www.linkedin.com/in/daniel-pinheiro-antunes-nogueira-87506a360/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
