@@ -40,8 +40,6 @@ Estudante de Engenharia de Software, apaixonado por tecnologia e sempre buscando
  
 ### 📊 Estatísticas do GitHub
  
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Pinheiro21&show_icons=true&theme=github_dark&hide_border=true)
  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Pinheiro21&layout=compact&theme=github_dark&hide_border=true)
  
@@ -56,9 +54,9 @@ Estudante de Engenharia de Software, apaixonado por tecnologia e sempre buscando
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Pinheiro-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pinheiro-antunes-nogueira-87506a360/)
  
 ---
- 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Daniel-Pinheiro21&color=58a6ff&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Daniel-Pinheiro21&color=0e75b6&style=for-the-badge)
+ 
  
 ⭐ De Daniel Pinheiro
  
