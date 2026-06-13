@@ -8,7 +8,7 @@
  
 Estudante de Engenharia de Software, apaixonado por tecnologia e sempre buscando aprender mais. No meu dia a dia trabalho como comprador em uma construtora civil — o que me dá uma perspectiva prática sobre gestão, logística e processos reais.
  
-- 🏗️ Comprador em construtora civil
+- 🏗️ Comprador em uma construtora civil
 - 🎂  Tenho 19 anos
 - 📚 Aprendendo atualmente: **Java**, **C** e **HTML**
 - 🎯 Foco em desenvolvimento de software e boas práticas de engenharia
