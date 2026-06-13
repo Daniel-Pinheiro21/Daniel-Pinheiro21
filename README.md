@@ -55,8 +55,7 @@ Estudante de Engenharia de Software, apaixonado por tecnologia e sempre buscando
  
 ---
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Daniel-Pinheiro21&color=0e75b6&style=for-the-badge)
- 
+<img src="https://komarev.com/ghpvc/?username=Daniel-Pinheiro21&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
  
 ⭐ De Daniel Pinheiro
  
